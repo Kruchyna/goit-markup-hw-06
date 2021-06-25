@@ -758,6 +758,7 @@ padding-bottom: 26px;
 .footer-container{
     display: flex;
     align-items: baseline;
+    width: 1170px;
 
 }
 .footer-list:last-child{
